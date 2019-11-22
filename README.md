@@ -1,4 +1,4 @@
-# Simple Weather Application using API in React
+# React Weather Application using API
 
 ![weather-app](weather_app.png)
 
