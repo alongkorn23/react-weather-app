@@ -2,6 +2,9 @@
 
 ![weather-app](weather_app.png)
 
+![weather-app-view](weather_app_view.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
