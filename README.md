@@ -1,6 +1,6 @@
 # React Weather Application using API
-
 ![weather-app](weather_app.png)
+
 
 ![weather-app-view](weather_app_view.png)
 
